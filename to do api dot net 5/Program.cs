@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 // building first C#/.NET 5.0 API
+// used Postman to test API
 // Link: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
 
 
