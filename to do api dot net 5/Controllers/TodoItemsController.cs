@@ -9,7 +9,7 @@ using to_do_api_dot_net_5.Models;
 
 namespace to_do_api_dot_net_5.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/TodoItems")]
     [ApiController]
     public class TodoItemsController : ControllerBase
     {
