@@ -10,6 +10,7 @@ namespace to_do_api_dot_net_5.Models
         public long Id { get; set; }
         public string Name { get; set; }
         public bool IsComplete { get; set; }
+        public string Secret { get; set; }
     }
 }
 
